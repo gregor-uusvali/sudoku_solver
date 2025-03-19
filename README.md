@@ -1,1 +1,3 @@
 # sudoku_solver
+
+a terminal sudoku solver that leet code me do...
